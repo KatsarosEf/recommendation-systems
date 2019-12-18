@@ -3,7 +3,7 @@ This repo contains the code and report for the "Advances in Data Mining" course,
 https://grouplens.org/datasets/movielens/?fbclid=IwAR05s5xjdWm9vEAPinrCuWwI5gDlR-JPqtpPYsREKoFmmoYXCBQ8LwGcl-k). The rating database contains 6k users and 4k movies. More information and elaborative experiments can be found on the first section of the attached report.
 
 
-## baseline models
+## Baseline models
 Predict the rating using a) the global mean b) items mean c) users mean d) weight average of item and user mean values. We observe their performance based on the RMSE and MAE metrics.
 
 ## Matrix factorization (Stochastic Gradient Descent)
